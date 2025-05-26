@@ -21,7 +21,7 @@ A curated list of papers related to weak-to-strong generalization (W2S) and adja
 | 2025 | [Representations Shape Weak-to-Strong Generalization: Theoretical Insights and Empirical Predictions](https://arxiv.org/abs/2502.00620) | Yihao Xue, Jiping Li, Baharan Mirzasoleiman | ICML 2025 |
 | 2025 | [Revisiting Weak-to-Strong Generalization in Theory and Practice: Reverse KL vs. Forward KL](https://arxiv.org/abs/2502.11107) | Wei Yao, Wenkai Yang, Ziqiao Wang, … | ArXiv |
 | 2025 | [Scaling Laws For Scalable Oversight](https://arxiv.org/abs/2504.18530) | Joshua Engels, David D. Baek, … | ArXiv |
-| 2025 | [Self-Improving Transformers Overcome Easy-to-Hard and Length Generalization Challenges](https://arxiv.org/abs/2502.01612) | Nayoung Lee, Ziyang Cai, Avi Schwarzschild, … | ArXiv |
+| 2025 | [Self-Improving Transformers Overcome Easy-to-Hard and Length Generalization Challenges](https://arxiv.org/abs/2502.01612) | Nayoung Lee, Ziyang Cai, Avi Schwarzschild, … | ICML 2025 |
 | 2025 | [Strong Empowered and Aligned Weak Mastered Annotation for Weak-to-Strong Generalization](https://doi.org/10.1609/aaai.v39i26.34955) | Yongqi Li, Xin Miao, Mayi Xu, … | AAAI 2025 |
 | 2025 | [Superalignment with Dynamic Human Values](https://arxiv.org/abs/2503.13621) | Florian Mai, David Kacz’er, … | ArXiv |
 | 2025 | [Synergistic Weak-Strong Collaboration by Aligning Preferences](https://arxiv.org/abs/2504.15188) | Yizhu Jiao, Xuchao Zhang, … | ArXiv |
